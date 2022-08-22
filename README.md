@@ -11,10 +11,9 @@
   <a href="https://github.com/phanikolla/">
     <img src="https://komarev.com/ghpvc/?username=phanikolla" alt="visitors" />
   </a>
-
+  <a href="https://twitter.com/phanikumarkolla" target="blank"><img src="https://img.shields.io/twitter/follow/phanikumarkolla?logo=twitter&style=for-the-badge" alt="phanikumarkolla" />
+  </a>
 </p>
-
-<p align="left"> <a href="https://twitter.com/phanikumarkolla" target="blank"><img src="https://img.shields.io/twitter/follow/phanikumarkolla?logo=twitter&style=for-the-badge" alt="phanikumarkolla" /></a> </p>
 
 #### Now
 
