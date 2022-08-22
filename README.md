@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm a Lead Software Engineer working in Hyderabad, Telangana</h1>
+<h1 align="center">Hi 👋, I'm a Lead Software Engineer working in Hyderabad, Telangana</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanikolla&label=Profile%20views&color=0e75b6&style=flat" alt="phanikolla" /> </p>
