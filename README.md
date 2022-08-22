@@ -11,13 +11,14 @@
   <a href="https://github.com/phanikolla/">
     <img src="https://komarev.com/ghpvc/?username=phanikolla" alt="visitors" />
   </a>
-  <a href="https://twitter.com/phanikumarkolla" target="blank"><img src="https://img.shields.io/twitter/follow/phanikumarkolla?logo=twitter&style=for-the-badge" alt="phanikumarkolla" />
+  <a href="https://twitter.com/phanikumarkolla/">
+    <img src="https://img.shields.io/twitter/follow/phanikumarkolla?logo=twitter" alt="phanikumarkolla" />
   </a>
 </p>
 
 #### Now
 
-- :fire: Interested in Java and Cloud engineering;
+- :fire: Interested in Artificial Intelligence/ Machine Learning and Cloud engineering;
 - :calendar: Looking for contributing to Java based open source projects 
 
 #### Bio
