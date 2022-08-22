@@ -1,27 +1,53 @@
 <h1 align="center">Hi 👋, I'm a Lead Software Engineer working in Hyderabad, Telangana</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Software Development Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phanikolla&label=Profile%20views&color=0e75b6&style=flat" alt="phanikolla" /> </p>
+<p align="left">
+  <a href="https://leetcode.com/PHANIKUMARKOLLA/">
+    <img src="https://cp-logo.vercel.app/leetcode/PHANIKUMARKOLLA" alt="Leet code rating" />
+  </a>
+  
+  <a href="https://github.com/phanikolla?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/phanikolla?color=green&logo=github">
+  </a>
+  <a href="https://github.com/phanikolla/">
+    <img src="https://komarev.com/ghpvc/?username=phanikolla" alt="visitors" />
+  </a>
+
+</p>
 
 <p align="left"> <a href="https://twitter.com/phanikumarkolla" target="blank"><img src="https://img.shields.io/twitter/follow/phanikumarkolla?logo=twitter&style=for-the-badge" alt="phanikumarkolla" /></a> </p>
 
-- 🔭 I’m currently working at **Wells Fargo**
+#### Now
 
-- 📫 How to reach me **www.linkedin.com/in/phanikumarkolla**
+- :fire: Interested in Java and Cloud engineering;
+- :calendar: Looking for contributing to Java based open source projects 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-KHJC81yvqyiCNaZAtFGFui2csdQz-Jv/view?usp=sharing](https://drive.google.com/file/d/1-KHJC81yvqyiCNaZAtFGFui2csdQz-Jv/view?usp=sharing)
+#### Bio
+- 🏢 I'm currently working at **Wells Fargo**
+- ⚙️ I use daily: `.java`, `.js`, `.yml`, `.sh`
+- 🌍 I'm mostly active within the **Java , System Design & Cloud Community**
+- 🌱 Learning all about **DSA & Cloud**
+- 💬 Ping me about **Java**, **Springboot**, **Docker**, **RestAPIs**, **Google Cloud**
+- 📝 Checkout my [Resume](files/resume.pdf).
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+#### Connect With Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/phanikumarkolla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phanikumarkolla" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/phanikumarkolla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phanikumarkolla" height="30" width="40" /></a>
-<a href="https://medium.com/@phani.kollas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@phani.kollas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/phanikumarkolla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phanikumarkolla" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/phanikxc30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="phanikxc30" height="30" width="40" /></a>
+<p left="center">
+<a href="https://twitter.com/phanikumarkolla">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/phanikumarkolla/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://medium.com/@phani.kollas">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+</a>
+<a href="https://www.leetcode.com/phanikumarkolla" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phanikumarkolla" height="30" width="40" />
+</a>
+<a href="mailto:pkkolla24@gmail.com">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
