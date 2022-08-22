@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Lead Software Engineer working in Hyderabad, Telangana</h1>
-<h3 align="center">A passionate Software Development Engineer from India</h3>
+## Hi 👋, I'm a Lead software engineer working in Hyderabad, India
 
 <p align="left">
   <a href="https://leetcode.com/PHANIKUMARKOLLA/">
