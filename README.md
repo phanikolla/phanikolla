@@ -61,5 +61,5 @@
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/PHANIKUMARKOLLA?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/phanikolla/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/phani.kollas/cf-stats/main/output/light_card.svg" />
 </p>
