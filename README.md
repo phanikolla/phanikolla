@@ -23,10 +23,10 @@
 
 #### Bio
 - 🏢 I'm currently working at **Wells Fargo**
-- ⚙️ I use daily: `.java`, `.js`, `.yml`, `.sh`
-- 🌍 I'm mostly active within the **Java , System Design & Cloud Community**
-- 🌱 Learning all about **DSA & Cloud**
-- 💬 Ping me about **Java**, **Springboot**, **Docker**, **RestAPIs**, **Google Cloud**
+- ⚙️ I use daily: `.java`, `.js`, `.yml`, `.sh`, `LLMs`
+- 🌍 I'm mostly active within the **AI, Generative AI, LLM's, Solution Architecting, Machine Learning, Java , System Design & Cloud Community**
+- 🌱 Learning all about **Gen AI**
+- 💬 Ping me about **Java**, **Springboot**, **Docker**, **RestAPIs**, **Google Cloud**, **AWS Services**, **Azure Cloud**
 - 📝 Checkout my [Resume](files/resume.pdf).
 
 #### Connect With Me
