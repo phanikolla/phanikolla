@@ -1,0 +1,37 @@
+Solutions architect with 14+ years of experience in
+
+1. 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲-𝘀𝗰𝗮𝗹𝗲 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
+2. 𝗖𝗹𝗼𝘂𝗱 𝗰𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴
+3. 𝗠𝗶𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀
+4. 𝗠𝗼𝗱𝗲𝗿𝗻 𝗱𝗮𝘁𝗮 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀
+
+I architect solutions that prioritize four critical pillars:
+
+• 𝗦𝗰𝗮𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆: Designing systems that efficiently handle growing workloads and user bases while maintaining performance
+
+• 𝗛𝗶𝗴𝗵 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆: Implementing fault-tolerant architectures with redundancy and failover mechanisms to ensure 99.9%+ uptime
+
+• 𝗖𝗼𝘀𝘁 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Balancing performance requirements with efficient resource utilization to maximize ROI
+
+• 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆: Embedding security principles throughout the development lifecycle with defense-in-depth strategies
+
+Currently expanding my expertise through hands-on work with
+• 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+• 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
+• 𝗠𝗼𝗱𝗲𝗹 𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻
+
+Technical proficiencies include
+1. Python
+2. Java
+3. Spring Boot
+4. PySpark
+5. LangChain
+6. boto3
+7. Streamlit
+8. AI/ML integration
+
+My approach combines deep technical knowledge with business acumen to deliver solutions that drive organizational value.
+
+Open to discussing Solutions Architect, Principal Engineer, and Staff Engineer opportunities at innovative technology companies.
+
+Here is my portfolio website link: https://www.cloudprojects.site where you can view my profile and download my resume.
